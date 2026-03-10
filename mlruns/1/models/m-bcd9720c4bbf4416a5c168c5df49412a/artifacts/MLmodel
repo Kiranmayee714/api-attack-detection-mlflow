@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/user/OneDrive/New/OneDrive/Desktop/API_Attack_Detection_MLflow/mlruns/1/models/m-bcd9720c4bbf4416a5c168c5df49412a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-bcd9720c4bbf4416a5c168c5df49412a
+model_size_bytes: 6650540
+model_uuid: m-bcd9720c4bbf4416a5c168c5df49412a
+prompts: null
+run_id: d5eb16c173b140979ec6ac0d97e7e304
+utc_time_created: '2026-03-09 03:48:06.754048'

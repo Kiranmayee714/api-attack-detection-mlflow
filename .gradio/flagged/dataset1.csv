@@ -1,0 +1,2 @@
+Endpoint,Requests per Minute,Failed Logins,Payload Size,Unusual Time (0 or 1),output,timestamp
+1,100,15,2000,1, Attack Detected,2026-03-10 11:14:40.582389
