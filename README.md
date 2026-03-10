@@ -68,6 +68,7 @@ The model predicts:
 ## Project Structure
 
 api-attack-detection-mlflow
+
 │
 ├── app.py
 
