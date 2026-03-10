@@ -70,6 +70,7 @@ The model predicts:
 api-attack-detection-mlflow
 
 │
+
 ├── app.py
 
 ├── detect_attack.py
@@ -86,10 +87,6 @@ api-attack-detection-mlflow
 
 ---
 
-## Screenshots
-
-### MLflow Experiment Tracking
-![MLflow UI](screenshots/mlflow_ui.png)
 
 ### Gradio Prediction Interface
 ![Gradio Interface](screenshots/gradio_interface.png)
