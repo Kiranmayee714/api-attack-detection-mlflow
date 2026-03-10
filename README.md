@@ -70,15 +70,37 @@ The model predicts:
 api-attack-detection-mlflow
 │
 ├── app.py
+
 ├── detect_attack.py
+
 ├── mlflow_demo.py
+
 ├── load_the_model.py
+
 ├── model.pkl
+
 ├── requirements.txt
+
 └── README.md
 
-
 ---
+
+## Screenshots
+
+### MLflow Experiment Tracking
+![MLflow UI](screenshots/mlflow_ui.png)
+
+### Gradio Prediction Interface
+![Gradio Interface](screenshots/gradio_interface.png)
+
+### Attack Detection Output
+![Terminal Output](screenshots/attack_output.png)
+
+## Live Demo
+
+Deployed on Hugging Face Spaces
+
+https://huggingface.co/spaces/ka4920/api-attack-detection
 
 ## Author
 
