@@ -88,11 +88,6 @@ api-attack-detection-mlflow
 ---
 
 
-### Gradio Prediction Interface
-![Gradio Interface](screenshots/gradio_interface.png)
-
-### Attack Detection Output
-![Terminal Output](screenshots/attack_output.png)
 
 ## Live Demo
 
